@@ -1,4 +1,15 @@
 # Welcome to DCA Stack!
+
+## Please note that this verison of DCAStack is getting phased out! Get the latest updates here:
+
+**Website: https://www.dcastack.com/**
+
+**Twitter: https://twitter.com/DcaStack**
+
+**New github: https://github.com/DCAStack**
+
+---
+
 ## An Automated Dollar Cost Averaging Bot For Your Crypto
 
 **Website: https://www.dcastack.com/**
